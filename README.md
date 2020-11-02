@@ -1,2 +1,3 @@
 # new
-it is a sample repository
+this is a new repository
+
